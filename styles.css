@@ -1,0 +1,24 @@
+/* classes */
+.col-md-3 {
+    height: 100px;
+}
+
+
+
+/* ids */
+#blue {
+    background: blue;
+}
+
+#red {
+    background: red;
+}
+
+#purple {
+    background: purple
+}
+
+#yellow {
+    background: yellow
+}
+
